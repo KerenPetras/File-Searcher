@@ -1,0 +1,23 @@
+C:\Users\user\Desktop\FileSearcher\File_Searcher_Final\File_Searcher_Final\bin\Debug\netcoreapp3.1\File_Searcher_Final.exe
+C:\Users\user\Desktop\FileSearcher\File_Searcher_Final\File_Searcher_Final\bin\Debug\netcoreapp3.1\File_Searcher_Final.deps.json
+C:\Users\user\Desktop\FileSearcher\File_Searcher_Final\File_Searcher_Final\bin\Debug\netcoreapp3.1\File_Searcher_Final.runtimeconfig.json
+C:\Users\user\Desktop\FileSearcher\File_Searcher_Final\File_Searcher_Final\bin\Debug\netcoreapp3.1\File_Searcher_Final.runtimeconfig.dev.json
+C:\Users\user\Desktop\FileSearcher\File_Searcher_Final\File_Searcher_Final\bin\Debug\netcoreapp3.1\File_Searcher_Final.dll
+C:\Users\user\Desktop\FileSearcher\File_Searcher_Final\File_Searcher_Final\bin\Debug\netcoreapp3.1\File_Searcher_Final.pdb
+C:\Users\user\Desktop\FileSearcher\File_Searcher_Final\File_Searcher_Final\obj\Debug\netcoreapp3.1\File_Searcher_Final.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\FileSearcher\File_Searcher_Final\File_Searcher_Final\obj\Debug\netcoreapp3.1\File_Searcher_Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\FileSearcher\File_Searcher_Final\File_Searcher_Final\obj\Debug\netcoreapp3.1\File_Searcher_Final.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\FileSearcher\File_Searcher_Final\File_Searcher_Final\obj\Debug\netcoreapp3.1\File_Searcher_Final.AssemblyInfo.cs
+C:\Users\user\Desktop\FileSearcher\File_Searcher_Final\File_Searcher_Final\obj\Debug\netcoreapp3.1\File_Searcher_Final.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\FileSearcher\File_Searcher_Final\File_Searcher_Final\obj\Debug\netcoreapp3.1\File_Searcher_Final.dll
+C:\Users\user\Desktop\FileSearcher\File_Searcher_Final\File_Searcher_Final\obj\Debug\netcoreapp3.1\File_Searcher_Final.pdb
+C:\Users\user\Desktop\FileSearcher\File_Searcher_Final\File_Searcher_Final\obj\Debug\netcoreapp3.1\File_Searcher_Final.genruntimeconfig.cache
+C:\Users\user\Desktop\FileSearcher\File_Searcher_Final\File_Searcher_Final\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\FileSearcher\File_Searcher_Final\File_Searcher_Final\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\FileSearcher\File_Searcher_Final\File_Searcher_Final\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\FileSearcher\File_Searcher_Final\File_Searcher_Final\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\FileSearcher\File_Searcher_Final\File_Searcher_Final\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\FileSearcher\File_Searcher_Final\File_Searcher_Final\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\FileSearcher\File_Searcher_Final\File_Searcher_Final\bin\Debug\netcoreapp3.1\bll to database.dll
+C:\Users\user\Desktop\FileSearcher\File_Searcher_Final\File_Searcher_Final\bin\Debug\netcoreapp3.1\bll to database.pdb
+C:\Users\user\Desktop\FileSearcher\File_Searcher_Final\File_Searcher_Final\obj\Debug\netcoreapp3.1\File_Searcher_Final.csproj.CopyComplete

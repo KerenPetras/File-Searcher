@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\FileSearcher\File_Searcher_Final\bll to database\obj\Debug\netcoreapp3.1\bll to database.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\FileSearcher\File_Searcher_Final\bll to database\obj\Debug\netcoreapp3.1\bll to database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\FileSearcher\File_Searcher_Final\bll to database\obj\Debug\netcoreapp3.1\bll to database.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\FileSearcher\File_Searcher_Final\bll to database\obj\Debug\netcoreapp3.1\bll to database.AssemblyInfo.cs
+C:\Users\user\Desktop\FileSearcher\File_Searcher_Final\bll to database\obj\Debug\netcoreapp3.1\bll to database.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\FileSearcher\File_Searcher_Final\bll to database\bin\Debug\netcoreapp3.1\bll to database.deps.json
+C:\Users\user\Desktop\FileSearcher\File_Searcher_Final\bll to database\bin\Debug\netcoreapp3.1\bll to database.dll
+C:\Users\user\Desktop\FileSearcher\File_Searcher_Final\bll to database\bin\Debug\netcoreapp3.1\bll to database.pdb
+C:\Users\user\Desktop\FileSearcher\File_Searcher_Final\bll to database\obj\Debug\netcoreapp3.1\bll to database.dll
+C:\Users\user\Desktop\FileSearcher\File_Searcher_Final\bll to database\obj\Debug\netcoreapp3.1\bll to database.pdb
